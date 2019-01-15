@@ -1,0 +1,25 @@
+body, html {
+  font-family: 'Open-Sans', sans-serif;
+}
+
+label, input {
+	margin-right: 1rem;
+}
+
+.container {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+form {
+  justify-content: center;
+}
+
+input[type=date]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    display: none;
+}
+
+span {
+  font-weight: 600;
+}
